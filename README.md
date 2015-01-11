@@ -1,2 +1,2 @@
 # dansmeuktheme
->>>>>>> 63a608fdc7b8b4d29acf58c61148fc1b8e12b0b2
+Theme for my personal website dans.me.uk
