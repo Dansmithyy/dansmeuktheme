@@ -51,4 +51,48 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+.navbar-inverse {
+    background-image: linear-gradient(to bottom, rgb(0, 132, 230) 0px, rgb(8, 126, 173) 100%);
+    background-repeat: repeat-x;
+}
+.navbar-inverse {
+    background-color: rgb(21, 114, 236);
+    border-color: rgb(23, 100, 234);
+}
 
+.navbar-inverse .navbar-toggle {
+    border-color: #0E96CC;
+}
+
+.navbar-inverse .navbar-toggle:hover {
+    background-color: #0e96cc;
+}
+
+.navbar-inverse .navbar-toggle:focus {
+    background-color: #0e96cc;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: #FFF;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.navbar-inverse .navbar-nav > li > .navbar-inverse .navbar-nav > li > a:focus {
+    color: #FFF;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: -15px;
+    color: #FFF;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #1D6E8F;
+}
