@@ -96,3 +96,24 @@ $on-laptop:        800px;
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #1D6E8F;
 }
+
+a.navbar-brand {
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+// Mobile nav styling happens here//
+.navbar-collapse{
+	background-color: #1572EC;
+	border-color: #1764EA;
+	background-image: linear-gradient(to bottom, #0084E6 0px, #087EAD 100%);
+	background-repeat: repeat-x;
+}
+
+.navbar-header {
+	background-color: #1572EC;
+	border-color: #1764EA;
+	background-image: linear-gradient(to bottom, #0084E6 0px, #087EAD 100%);
+	background-repeat: repeat-x;
+}
+
