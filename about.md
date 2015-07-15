@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About 
+title: About
 permalink: /about/
 ---
-
-Some about information shall appear on this page at some point.
